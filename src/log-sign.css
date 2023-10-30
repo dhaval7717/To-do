@@ -1,0 +1,25 @@
+/* Style for buttons */
+.body{
+background-color: white;
+}
+.link-button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .link-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Hidden button style */
+  .hidden {
+    display: none;
+  }
+  
